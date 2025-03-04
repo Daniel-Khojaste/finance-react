@@ -1,9 +1,9 @@
-import Navbar from "./Components/Navbar";
+import NavBar from './Components/Navbar.jsx'
 
 function App() {
   return (
     <div>
-      <Navbar />
+      <NavBar />
     </div>
   );
 }
